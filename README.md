@@ -16,3 +16,7 @@ This is a GUI based Desktop Application proving the Complete information about v
 
 * People Relocating to a new City.
 * Tourists
+
+# DATABASE
+
+* In this Application MySQL Database is used for login, signup, and booking purpose.
